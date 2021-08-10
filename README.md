@@ -1,6 +1,6 @@
 # i_am_best
 
-A new Flutter project.
+A new Flutter CHALLENGE project .
 
 ## Getting Started
 
